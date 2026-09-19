@@ -55,7 +55,7 @@ There are no site-specific action scripts or prepared field strings in the polic
 
 Before running Jev Ultrafast, make sure you have:
 
-- Python 3.11 or newer
+- Python 3.12 or newer
 - Google Chrome installed
 - A valid `TYPESAFE_API_KEY`
 - A valid text model API key (OpenRouter or compatible provider)
